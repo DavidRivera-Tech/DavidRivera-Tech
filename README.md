@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm David Rivera 👋
 
-<!--
-**DavidRivera-Tech/DavidRivera-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on **Cloud Engineering, DevOps, and DevSecOps**.
 
-Here are some ideas to get you started:
+I build scalable and secure infrastructure using **AWS, Azure, and modern cloud technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- Cloud Infrastructure (AWS, Azure, GCP)
+- DevOps & Automation
+- Secure Cloud Architecture (DevSecOps)
+- Distributed Systems
+
+---
+
+## 🛠 Technologies
+
+**Cloud**
+- AWS
+- Microsoft Azure
+- Google Cloud
+
+**Programming**
+- Python
+- Java
+- C++
+- SQL
+
+**Infrastructure & Systems**
+- Linux
+- Virtual Machines
+- Cloud Storage
+- Networking
+
+---
+
+## 📂 Cloud Engineering Portfolio (In Progress)
+
+- AWS Cloud Infrastructure Deployment
+- Azure Compute Infrastructure
+- Cloud Database Engineering
+- Multi-Cloud Storage Architecture
+- Cloud Web Application Hosting
+- Multi-Cloud Architecture Analysis
+- Multi-Cloud Infrastructure Project
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/DavidRivera-Tech

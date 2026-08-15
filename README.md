@@ -26,12 +26,16 @@ I pair a strong CS foundation — data structures, algorithms, databases, distri
 
 **Cloud & Infrastructure**
 - AWS (EC2, RDS, VPC, IAM)
+- Docker & Docker Compose
+- Redis
 - Linux
 - Networking
 
 **Tools**
 - Git & GitHub
-- MySQL
+- FastAPI
+- PostgreSQL / MySQL
+- pytest
 - Bash
 
 ---
@@ -50,10 +54,7 @@ Hands-on AWS infrastructure builds — provisioning, networking, security, and s
 
 Applications and backends demonstrating programming, databases, APIs, and data pipelines.
 
-- **python-task-api** — REST API backend built with Python and FastAPI, with a database and full CRUD *(coming soon)*.
-- **python-data-pipeline** — ETL pipeline that ingests data from a public API, transforms it, and loads it into a database on a schedule *(coming soon)*.
-- **java-student-management** — Full-stack Java web application with MySQL and complete CRUD functionality *(coming soon)*.
-- **node-drive-integration** — Node.js app using OAuth 2.0 and external API integration *(coming soon)*.
+- **[webhook-gateway](https://github.com/DavidRivera-Tech/webhook-gateway)** — Production-style async webhook delivery service (FastAPI, Redis, PostgreSQL, Docker) with automatic retries, a per-endpoint circuit breaker, and idempotency. Load-tested with Locust.
 
 ---
 
